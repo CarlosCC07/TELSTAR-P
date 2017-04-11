@@ -1,0 +1,14 @@
+program abc;
+
+int AAA,
+float[10] BC;
+
+define int ZXY() {
+
+}
+
+{ 
+boolean k;
+k = true;
+} 
+
